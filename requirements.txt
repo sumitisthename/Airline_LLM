@@ -1,0 +1,14 @@
+streamlit
+selenium
+beautifulsoup4
+langchain
+sentence-transformers
+openai
+numpy
+matplotlib
+groq
+nltk
+pandas
+evaluate
+dotenv
+rouge-score

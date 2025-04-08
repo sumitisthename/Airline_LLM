@@ -1,0 +1,720 @@
+=== Hallucination Check ===
+Sentence: **Customer Feedback Analysis – Qatar Airways**
+
+**Summary:**
+The customer feedback highlights a mixed experience, with some customers praising the airline's service quality, while others express concerns about partner airline operations.
+Max Similarity: 0.62
+Hallucinated: True
+---
+Sentence: **Key Insights:**
+
+* Positive experiences with Qatar Airways' own flights, citing excellent cabin staff service, comfortable seating, and great food options.
+Max Similarity: 0.81
+Hallucinated: False
+---
+Sentence: * Negative experiences with partner airline operations, particularly with Malaysia Airlines, citing poor food, limited entertainment, and slow WiFi.
+Max Similarity: 0.52
+Hallucinated: True
+---
+Sentence: * Recurring theme of exceptional service provided by Qatar Airways' cabin crew.
+Max Similarity: 0.64
+Hallucinated: True
+---
+Sentence: **Specific Examples:**
+
+* L.
+Max Similarity: 0.07
+Hallucinated: True
+---
+Sentence: Han (Germany) appreciated the upgrade to a Boeing 777 with QSuite, citing great food, staff, and entertainment, but expressed disappointment with the partner airline operation.
+Max Similarity: 0.54
+Hallucinated: True
+---
+Sentence: * Dr.
+Max Similarity: 0.08
+Hallucinated: True
+---
+Sentence: Akeil Al-Faraj (Canada) had an outstanding experience on a Qatar Airways flight from Doha to Amman, praising the check-in process, aircraft cleanliness, food, and exceptional cabin crew service.
+Max Similarity: 0.75
+Hallucinated: False
+---
+Sentence: * Claus Falsig (Denmark) consistently praises Qatar Airways' service, citing very nice staff at ground and cabin, and a great experience in Economy class.
+Max Similarity: 0.73
+Hallucinated: False
+---
+Sentence: **Actionable Recommendations:**
+
+1.
+Max Similarity: 0.28
+Hallucinated: True
+---
+Sentence: Improve communication and coordination with partner airlines to ensure a consistent level of service.
+Max Similarity: 0.42
+Hallucinated: True
+---
+Sentence: 2.
+Max Similarity: 0.13
+Hallucinated: True
+---
+Sentence: Consider operating daily flights on certain routes instead of partnering with other airlines.
+Max Similarity: 0.39
+Hallucinated: True
+---
+Sentence: 3.
+Max Similarity: 0.15
+Hallucinated: True
+---
+Sentence: Focus on maintaining and improving the exceptional service provided by Qatar Airways' cabin crew.
+Max Similarity: 0.70
+Hallucinated: True
+---
+Sentence: 4.
+Max Similarity: 0.13
+Hallucinated: True
+---
+Sentence: Enhance inflight entertainment options and WiFi connectivity on partner airline operations.
+Max Similarity: 0.42
+Hallucinated: True
+---
+Sentence: 5.
+Max Similarity: 0.18
+Hallucinated: True
+---
+Sentence: Provide clear information to passengers about the quality of service they can expect on partner airline flights.
+Max Similarity: 0.49
+Hallucinated: True
+---
+Sentence: **Customer Feedback Analysis – Qatar Airways**
+
+**Summary:**
+The majority of customers praised Qatar Airways for its exceptional service quality, comfortable seats, and good food.
+Max Similarity: 0.72
+Hallucinated: False
+---
+Sentence: However, some customers mentioned limitations in in-flight entertainment and concerns about aircraft age.
+Max Similarity: 0.36
+Hallucinated: True
+---
+Sentence: **Key Insights:**
+
+* Positive experiences: customers appreciated the comfortable seats, good food, and attentive cabin crew.
+Max Similarity: 0.57
+Hallucinated: True
+---
+Sentence: * Negative experiences: some customers felt that in-flight entertainment was limited, and there were concerns about the age of aircraft used on certain sectors.
+Max Similarity: 0.41
+Hallucinated: True
+---
+Sentence: **Specific Examples:**
+
+* Virginia Bolton (Australia) enjoyed her 5-hour flight, praising the comfortable seat and pleasant crew.
+Max Similarity: 0.51
+Hallucinated: True
+---
+Sentence: She found the in-flight entertainment to be limited, but overall had a comfortable experience.
+Max Similarity: 0.46
+Hallucinated: True
+---
+Sentence: * E Besine (France) had an outstanding experience, praising the impeccable service, high-quality food, and comfortable seats.
+Max Similarity: 0.43
+Hallucinated: True
+---
+Sentence: She appreciated the seamless organization and coordination during layovers.
+Max Similarity: 0.40
+Hallucinated: True
+---
+Sentence: * Tai Wei Wong (Malaysia) had a pleasant experience, except for the old aircraft used on one sector.
+Max Similarity: 0.43
+Hallucinated: True
+---
+Sentence: However, the cabin crew worked tirelessly to make up for the deficit, and the Qsuites business class was amazing.
+Max Similarity: 0.42
+Hallucinated: True
+---
+Sentence: **Actionable Recommendations:**
+
+* Improve in-flight entertainment options to cater to a wider range of passengers' tastes.
+Max Similarity: 0.54
+Hallucinated: True
+---
+Sentence: * Consider upgrading aircraft to ensure a consistent level of comfort and amenities across all sectors.
+Max Similarity: 0.45
+Hallucinated: True
+---
+Sentence: * Continue to prioritize customer service, ensuring that cabin crew are attentive and professional.
+Max Similarity: 0.51
+Hallucinated: True
+---
+Sentence: * Consider offering more affordable options to attract a broader customer base.
+Max Similarity: 0.29
+Hallucinated: True
+---
+Sentence: Overall, Qatar Airways has demonstrated a commitment to exceptional service quality and passenger comfort.
+Max Similarity: 0.70
+Hallucinated: True
+---
+Sentence: However, there is room for improvement in terms of in-flight entertainment and aircraft age.
+Max Similarity: 0.37
+Hallucinated: True
+---
+Sentence: By addressing these concerns, Qatar Airways can continue to excel in the industry and maintain customer loyalty.
+Max Similarity: 0.58
+Hallucinated: True
+---
+Sentence: **Customer Feedback Analysis – Qatar Airways**
+
+**Summary:**
+The customer feedback analysis reveals a mixed bag of experiences, with some customers praising the airline's service quality, while others express disappointment with food service and flexibility.
+Max Similarity: 0.64
+Hallucinated: True
+---
+Sentence: **Key Insights:**
+
+* Positive experiences: Customers appreciate the warm and friendly cabin crew, thorough and professional service, and good entertainment options.
+Max Similarity: 0.59
+Hallucinated: True
+---
+Sentence: * Negative experiences: Some customers express disappointment with food service, citing issues with food choices, synchronizing meal service, and flexibility in accommodating special requests.
+Max Similarity: 0.59
+Hallucinated: True
+---
+Sentence: **Specific Examples:**
+
+* Review 22: David Sims (Australia) - Explores issues with food service, including food choices, synchronizing meal service, and flexibility in accommodating special requests.
+Max Similarity: 0.49
+Hallucinated: True
+---
+Sentence: * Review 26: Theona Knight (Kuwait) - Highlights the warmth and friendliness of the cabin crew, thoroughness of service, and excellent communication.
+Max Similarity: 0.66
+Hallucinated: True
+---
+Sentence: * Review 41: C Richardson (United Kingdom) - Praises the airline's customer experience, value for money, and safety, citing excellent meals and treatment as a "First Class" passenger in Economy class.
+Max Similarity: 0.66
+Hallucinated: True
+---
+Sentence: **Actionable Recommendations:**
+
+* Improve food service by:
+	+ Offering more flexible meal options and accommodating special requests.
+Max Similarity: 0.42
+Hallucinated: True
+---
+Sentence: + Synchronizing meal service across all rows to avoid delays and disappointments.
+Max Similarity: 0.50
+Hallucinated: True
+---
+Sentence: + Providing a wider range of food choices to cater to diverse tastes and dietary requirements.
+Max Similarity: 0.29
+Hallucinated: True
+---
+Sentence: * Enhance cabin crew training by:
+	+ Encouraging friendly and engaging interactions with passengers.
+Max Similarity: 0.55
+Hallucinated: True
+---
+Sentence: + Ensuring crew members are empowered to accommodate special requests and adapt to changing situations.
+Max Similarity: 0.42
+Hallucinated: True
+---
+Sentence: + Providing ongoing feedback mechanisms to address concerns and improve service quality.
+Max Similarity: 0.35
+Hallucinated: True
+---
+Sentence: * Focus on consistency and standardization in service delivery to ensure a uniform experience across all flights and routes.
+Max Similarity: 0.47
+Hallucinated: True
+---
+Sentence: **Service Quality Insights:**
+
+* Customer service was unhelpful and obstructive when dealing with issues related to ticket flexibility and changes to flight schedules.
+Max Similarity: 0.49
+Hallucinated: True
+---
+Sentence: * The airline refused to accommodate a simple request to maintain a 2-hour layover in Doha, citing intransigence and arrogance.
+Max Similarity: 0.56
+Hallucinated: True
+---
+Sentence: * This experience led the customer to strongly warn others against flying with Qatar Airways.
+Max Similarity: 0.63
+Hallucinated: True
+---
+Sentence: **Actionable Recommendations:**
+
+* Implement a more customer-centric approach to handling ticket flexibility and schedule changes.
+Max Similarity: 0.35
+Hallucinated: True
+---
+Sentence: * Provide clear communication and transparent solutions to customers' requests and concerns.
+Max Similarity: 0.30
+Hallucinated: True
+---
+Sentence: * Train customer service representatives to be more empathetic and accommodating, focusing on finding solutions rather than simply adhering to rigid policies.
+Max Similarity: 0.26
+Hallucinated: True
+---
+Sentence: * Consider implementing a "service recovery" process to address and resolve customer complaints in a timely and satisfactory manner.
+Max Similarity: 0.27
+Hallucinated: True
+---
+
+=== Sentiment Analysis ===
+Sentence: **Customer Feedback Analysis – Qatar Airways**
+
+**Summary:**
+The customer feedback highlights a mixed experience, with some customers praising the airline's service quality, while others express concerns about partner airline operations.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9918187856674194}]
+---
+Sentence: **Key Insights:**
+
+* Positive experiences with Qatar Airways' own flights, citing excellent cabin staff service, comfortable seating, and great food options.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9997734427452087}]
+---
+Sentence: * Negative experiences with partner airline operations, particularly with Malaysia Airlines, citing poor food, limited entertainment, and slow WiFi.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9997233748435974}]
+---
+Sentence: * Recurring theme of exceptional service provided by Qatar Airways' cabin crew.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9985842704772949}]
+---
+Sentence: **Specific Examples:**
+
+* L.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.938003659248352}]
+---
+Sentence: Han (Germany) appreciated the upgrade to a Boeing 777 with QSuite, citing great food, staff, and entertainment, but expressed disappointment with the partner airline operation.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.8142496347427368}]
+---
+Sentence: * Dr.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9792550206184387}]
+---
+Sentence: Akeil Al-Faraj (Canada) had an outstanding experience on a Qatar Airways flight from Doha to Amman, praising the check-in process, aircraft cleanliness, food, and exceptional cabin crew service.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.999760091304779}]
+---
+Sentence: * Claus Falsig (Denmark) consistently praises Qatar Airways' service, citing very nice staff at ground and cabin, and a great experience in Economy class.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9997907280921936}]
+---
+Sentence: **Actionable Recommendations:**
+
+1.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9861332774162292}]
+---
+Sentence: Improve communication and coordination with partner airlines to ensure a consistent level of service.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9993287324905396}]
+---
+Sentence: 2.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9814397692680359}]
+---
+Sentence: Consider operating daily flights on certain routes instead of partnering with other airlines.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.5700748562812805}]
+---
+Sentence: 3.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.99003005027771}]
+---
+Sentence: Focus on maintaining and improving the exceptional service provided by Qatar Airways' cabin crew.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9982485771179199}]
+---
+Sentence: 4.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9901897311210632}]
+---
+Sentence: Enhance inflight entertainment options and WiFi connectivity on partner airline operations.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.999062716960907}]
+---
+Sentence: 5.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9915001392364502}]
+---
+Sentence: Provide clear information to passengers about the quality of service they can expect on partner airline flights.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9993683695793152}]
+---
+Sentence: **Customer Feedback Analysis – Qatar Airways**
+
+**Summary:**
+The majority of customers praised Qatar Airways for its exceptional service quality, comfortable seats, and good food.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9997102618217468}]
+---
+Sentence: However, some customers mentioned limitations in in-flight entertainment and concerns about aircraft age.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9961584210395813}]
+---
+Sentence: **Key Insights:**
+
+* Positive experiences: customers appreciated the comfortable seats, good food, and attentive cabin crew.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9997362494468689}]
+---
+Sentence: * Negative experiences: some customers felt that in-flight entertainment was limited, and there were concerns about the age of aircraft used on certain sectors.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9995155334472656}]
+---
+Sentence: **Specific Examples:**
+
+* Virginia Bolton (Australia) enjoyed her 5-hour flight, praising the comfortable seat and pleasant crew.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9998520612716675}]
+---
+Sentence: She found the in-flight entertainment to be limited, but overall had a comfortable experience.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9961775541305542}]
+---
+Sentence: * E Besine (France) had an outstanding experience, praising the impeccable service, high-quality food, and comfortable seats.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9998668432235718}]
+---
+Sentence: She appreciated the seamless organization and coordination during layovers.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9986959099769592}]
+---
+Sentence: * Tai Wei Wong (Malaysia) had a pleasant experience, except for the old aircraft used on one sector.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9990384578704834}]
+---
+Sentence: However, the cabin crew worked tirelessly to make up for the deficit, and the Qsuites business class was amazing.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9998083710670471}]
+---
+Sentence: **Actionable Recommendations:**
+
+* Improve in-flight entertainment options to cater to a wider range of passengers' tastes.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9971554279327393}]
+---
+Sentence: * Consider upgrading aircraft to ensure a consistent level of comfort and amenities across all sectors.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9932698607444763}]
+---
+Sentence: * Continue to prioritize customer service, ensuring that cabin crew are attentive and professional.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9912773370742798}]
+---
+Sentence: * Consider offering more affordable options to attract a broader customer base.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.5174651145935059}]
+---
+Sentence: Overall, Qatar Airways has demonstrated a commitment to exceptional service quality and passenger comfort.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9997486472129822}]
+---
+Sentence: However, there is room for improvement in terms of in-flight entertainment and aircraft age.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9990804195404053}]
+---
+Sentence: By addressing these concerns, Qatar Airways can continue to excel in the industry and maintain customer loyalty.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9996651411056519}]
+---
+Sentence: **Customer Feedback Analysis – Qatar Airways**
+
+**Summary:**
+The customer feedback analysis reveals a mixed bag of experiences, with some customers praising the airline's service quality, while others express disappointment with food service and flexibility.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9133995175361633}]
+---
+Sentence: **Key Insights:**
+
+* Positive experiences: Customers appreciate the warm and friendly cabin crew, thorough and professional service, and good entertainment options.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9998372793197632}]
+---
+Sentence: * Negative experiences: Some customers express disappointment with food service, citing issues with food choices, synchronizing meal service, and flexibility in accommodating special requests.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9993415474891663}]
+---
+Sentence: **Specific Examples:**
+
+* Review 22: David Sims (Australia) - Explores issues with food service, including food choices, synchronizing meal service, and flexibility in accommodating special requests.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9928501844406128}]
+---
+Sentence: * Review 26: Theona Knight (Kuwait) - Highlights the warmth and friendliness of the cabin crew, thoroughness of service, and excellent communication.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9998472929000854}]
+---
+Sentence: * Review 41: C Richardson (United Kingdom) - Praises the airline's customer experience, value for money, and safety, citing excellent meals and treatment as a "First Class" passenger in Economy class.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9996252059936523}]
+---
+Sentence: **Actionable Recommendations:**
+
+* Improve food service by:
+	+ Offering more flexible meal options and accommodating special requests.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.995019793510437}]
+---
+Sentence: + Synchronizing meal service across all rows to avoid delays and disappointments.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9247754216194153}]
+---
+Sentence: + Providing a wider range of food choices to cater to diverse tastes and dietary requirements.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9990798234939575}]
+---
+Sentence: * Enhance cabin crew training by:
+	+ Encouraging friendly and engaging interactions with passengers.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9998390674591064}]
+---
+Sentence: + Ensuring crew members are empowered to accommodate special requests and adapt to changing situations.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9995518326759338}]
+---
+Sentence: + Providing ongoing feedback mechanisms to address concerns and improve service quality.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9951387643814087}]
+---
+Sentence: * Focus on consistency and standardization in service delivery to ensure a uniform experience across all flights and routes.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9987648725509644}]
+---
+Sentence: **Service Quality Insights:**
+
+* Customer service was unhelpful and obstructive when dealing with issues related to ticket flexibility and changes to flight schedules.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.988807201385498}]
+---
+Sentence: * The airline refused to accommodate a simple request to maintain a 2-hour layover in Doha, citing intransigence and arrogance.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9994739890098572}]
+---
+Sentence: * This experience led the customer to strongly warn others against flying with Qatar Airways.
+Sentiment: [{'label': 'NEGATIVE', 'score': 0.9878206849098206}]
+---
+Sentence: **Actionable Recommendations:**
+
+* Implement a more customer-centric approach to handling ticket flexibility and schedule changes.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9570454955101013}]
+---
+Sentence: * Provide clear communication and transparent solutions to customers' requests and concerns.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9982283711433411}]
+---
+Sentence: * Train customer service representatives to be more empathetic and accommodating, focusing on finding solutions rather than simply adhering to rigid policies.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9890357851982117}]
+---
+Sentence: * Consider implementing a "service recovery" process to address and resolve customer complaints in a timely and satisfactory manner.
+Sentiment: [{'label': 'POSITIVE', 'score': 0.9974566102027893}]
+---
+
+=== Toxicity Detection ===
+Sentence: **Customer Feedback Analysis – Qatar Airways**
+
+**Summary:**
+The customer feedback highlights a mixed experience, with some customers praising the airline's service quality, while others express concerns about partner airline operations.
+Toxicity Scores: {'toxic': 0.0005296647432260215, 'severe_toxic': 0.00013550205039791763, 'obscene': 0.00018882013682741672, 'threat': 0.00013257995306048542, 'insult': 0.0001813342096284032, 'identity_hate': 0.00014853861648589373}
+Flagged as Toxic: False
+---
+Sentence: **Key Insights:**
+
+* Positive experiences with Qatar Airways' own flights, citing excellent cabin staff service, comfortable seating, and great food options.
+Toxicity Scores: {'toxic': 0.0005193880060687661, 'severe_toxic': 0.00014068950258661062, 'obscene': 0.0001901411742437631, 'threat': 0.00014136389654595405, 'insult': 0.0001840765617089346, 'identity_hate': 0.00015152042033150792}
+Flagged as Toxic: False
+---
+Sentence: * Negative experiences with partner airline operations, particularly with Malaysia Airlines, citing poor food, limited entertainment, and slow WiFi.
+Toxicity Scores: {'toxic': 0.0008079615654423833, 'severe_toxic': 0.00011056382209062576, 'obscene': 0.0001690019271336496, 'threat': 0.00011568524496397004, 'insult': 0.00019073550356552005, 'identity_hate': 0.00014687863586004823}
+Flagged as Toxic: False
+---
+Sentence: * Recurring theme of exceptional service provided by Qatar Airways' cabin crew.
+Toxicity Scores: {'toxic': 0.0005348401609808207, 'severe_toxic': 0.00013535535254050046, 'obscene': 0.0001901266659842804, 'threat': 0.00013229036994744092, 'insult': 0.00018445836030878127, 'identity_hate': 0.00014917564112693071}
+Flagged as Toxic: False
+---
+Sentence: **Specific Examples:**
+
+* L.
+Toxicity Scores: {'toxic': 0.0007195837097242475, 'severe_toxic': 0.00011296206503175199, 'obscene': 0.00018227829423267394, 'threat': 0.00011777882900787517, 'insult': 0.00017691154789645225, 'identity_hate': 0.0001334327389486134}
+Flagged as Toxic: False
+---
+Sentence: Han (Germany) appreciated the upgrade to a Boeing 777 with QSuite, citing great food, staff, and entertainment, but expressed disappointment with the partner airline operation.
+Toxicity Scores: {'toxic': 0.0005488296155817807, 'severe_toxic': 0.00013495069288183004, 'obscene': 0.00019603065447881818, 'threat': 0.0001273082452826202, 'insult': 0.00018370292673353106, 'identity_hate': 0.0001511442387709394}
+Flagged as Toxic: False
+---
+Sentence: * Dr.
+Toxicity Scores: {'toxic': 0.0009317935327999294, 'severe_toxic': 0.0001058350972016342, 'obscene': 0.00018358087982051075, 'threat': 0.0001062576993717812, 'insult': 0.00018806297157425433, 'identity_hate': 0.0001374173880321905}
+Flagged as Toxic: False
+---
+Sentence: Akeil Al-Faraj (Canada) had an outstanding experience on a Qatar Airways flight from Doha to Amman, praising the check-in process, aircraft cleanliness, food, and exceptional cabin crew service.
+Toxicity Scores: {'toxic': 0.0005178484134376049, 'severe_toxic': 0.00014087112504057586, 'obscene': 0.00019610428716987371, 'threat': 0.00013728548947256058, 'insult': 0.00018474720127414912, 'identity_hate': 0.00015013244410511106}
+Flagged as Toxic: False
+---
+Sentence: * Claus Falsig (Denmark) consistently praises Qatar Airways' service, citing very nice staff at ground and cabin, and a great experience in Economy class.
+Toxicity Scores: {'toxic': 0.0005356945330277085, 'severe_toxic': 0.00013399308954831213, 'obscene': 0.00018909039499703795, 'threat': 0.00013065688835922629, 'insult': 0.000181840849108994, 'identity_hate': 0.00014688157534692436}
+Flagged as Toxic: False
+---
+Sentence: **Actionable Recommendations:**
+
+1.
+Toxicity Scores: {'toxic': 0.0006291151512414217, 'severe_toxic': 0.00012146541848778725, 'obscene': 0.00018953409744426608, 'threat': 0.00012860450078733265, 'insult': 0.00017481815302744508, 'identity_hate': 0.0001382058544550091}
+Flagged as Toxic: False
+---
+Sentence: Improve communication and coordination with partner airlines to ensure a consistent level of service.
+Toxicity Scores: {'toxic': 0.0005234046839177608, 'severe_toxic': 0.0001414213329553604, 'obscene': 0.00019789340149145573, 'threat': 0.00014638618449680507, 'insult': 0.00018303013348486274, 'identity_hate': 0.00014810881111770868}
+Flagged as Toxic: False
+---
+Sentence: 2.
+Toxicity Scores: {'toxic': 0.0011855852790176868, 'severe_toxic': 0.00010050419223261997, 'obscene': 0.00019300160056445748, 'threat': 0.00010453689901623875, 'insult': 0.00018659458146430552, 'identity_hate': 0.0001423364010406658}
+Flagged as Toxic: False
+---
+Sentence: Consider operating daily flights on certain routes instead of partnering with other airlines.
+Toxicity Scores: {'toxic': 0.0006220014183782041, 'severe_toxic': 0.00012421351857483387, 'obscene': 0.0001715656544547528, 'threat': 0.00013638794189319015, 'insult': 0.0001834377326304093, 'identity_hate': 0.00014734125579707325}
+Flagged as Toxic: False
+---
+Sentence: 3.
+Toxicity Scores: {'toxic': 0.0011742511996999383, 'severe_toxic': 0.00010022204514825717, 'obscene': 0.00019392282410990447, 'threat': 0.0001054466629284434, 'insult': 0.00018621936033014208, 'identity_hate': 0.00014172155351843685}
+Flagged as Toxic: False
+---
+Sentence: Focus on maintaining and improving the exceptional service provided by Qatar Airways' cabin crew.
+Toxicity Scores: {'toxic': 0.0005745760863646865, 'severe_toxic': 0.0001331649109488353, 'obscene': 0.00017829817079473287, 'threat': 0.00014420169463846833, 'insult': 0.0001859209587564692, 'identity_hate': 0.00014972142525948584}
+Flagged as Toxic: False
+---
+Sentence: 4.
+Toxicity Scores: {'toxic': 0.0012900290312245488, 'severe_toxic': 9.860350837698206e-05, 'obscene': 0.00019673843053169549, 'threat': 0.00010418621241115034, 'insult': 0.00018800148973241448, 'identity_hate': 0.0001436468301108107}
+Flagged as Toxic: False
+---
+Sentence: Enhance inflight entertainment options and WiFi connectivity on partner airline operations.
+Toxicity Scores: {'toxic': 0.0005735160084441304, 'severe_toxic': 0.00012962328037247062, 'obscene': 0.00018925525364466012, 'threat': 0.0001336637360509485, 'insult': 0.00017983755969908088, 'identity_hate': 0.0001458518672734499}
+Flagged as Toxic: False
+---
+Sentence: 5.
+Toxicity Scores: {'toxic': 0.0013671499909833074, 'severe_toxic': 9.821003914112225e-05, 'obscene': 0.00020199149730615318, 'threat': 0.00010286554606864229, 'insult': 0.00019211335165891796, 'identity_hate': 0.0001438852195860818}
+Flagged as Toxic: False
+---
+Sentence: Provide clear information to passengers about the quality of service they can expect on partner airline flights.
+Toxicity Scores: {'toxic': 0.0005268967361189425, 'severe_toxic': 0.00013839310850016773, 'obscene': 0.0001868518302217126, 'threat': 0.00014625320909544826, 'insult': 0.00018042564624920487, 'identity_hate': 0.0001501924270996824}
+Flagged as Toxic: False
+---
+Sentence: **Customer Feedback Analysis – Qatar Airways**
+
+**Summary:**
+The majority of customers praised Qatar Airways for its exceptional service quality, comfortable seats, and good food.
+Toxicity Scores: {'toxic': 0.0005326085956767201, 'severe_toxic': 0.00013867182133253664, 'obscene': 0.00018569204257801175, 'threat': 0.0001434337318642065, 'insult': 0.00018301776435691863, 'identity_hate': 0.00015060100122354925}
+Flagged as Toxic: False
+---
+Sentence: However, some customers mentioned limitations in in-flight entertainment and concerns about aircraft age.
+Toxicity Scores: {'toxic': 0.0005465353024192154, 'severe_toxic': 0.0001334898843197152, 'obscene': 0.00018455441750120372, 'threat': 0.00013451951963361353, 'insult': 0.00018295230984222144, 'identity_hate': 0.00014873818145133555}
+Flagged as Toxic: False
+---
+Sentence: **Key Insights:**
+
+* Positive experiences: customers appreciated the comfortable seats, good food, and attentive cabin crew.
+Toxicity Scores: {'toxic': 0.0005106352618895471, 'severe_toxic': 0.0001420557382516563, 'obscene': 0.00019238832464907318, 'threat': 0.00014367903349921107, 'insult': 0.00018326255667489022, 'identity_hate': 0.00014869237202219665}
+Flagged as Toxic: False
+---
+Sentence: * Negative experiences: some customers felt that in-flight entertainment was limited, and there were concerns about the age of aircraft used on certain sectors.
+Toxicity Scores: {'toxic': 0.0005447945441119373, 'severe_toxic': 0.00013334484538063407, 'obscene': 0.00018580043979454786, 'threat': 0.00013247695460449904, 'insult': 0.0001840798940975219, 'identity_hate': 0.00014896840730216354}
+Flagged as Toxic: False
+---
+Sentence: **Specific Examples:**
+
+* Virginia Bolton (Australia) enjoyed her 5-hour flight, praising the comfortable seat and pleasant crew.
+Toxicity Scores: {'toxic': 0.0005311252316460013, 'severe_toxic': 0.00013255908561404794, 'obscene': 0.00018727047427091748, 'threat': 0.00013011082774028182, 'insult': 0.00017786771059036255, 'identity_hate': 0.00014332382124848664}
+Flagged as Toxic: False
+---
+Sentence: She found the in-flight entertainment to be limited, but overall had a comfortable experience.
+Toxicity Scores: {'toxic': 0.0005694064893759787, 'severe_toxic': 0.00013121070514898747, 'obscene': 0.00019323067681398243, 'threat': 0.00012517330469563603, 'insult': 0.0001814265560824424, 'identity_hate': 0.00014126417227089405}
+Flagged as Toxic: False
+---
+Sentence: * E Besine (France) had an outstanding experience, praising the impeccable service, high-quality food, and comfortable seats.
+Toxicity Scores: {'toxic': 0.0005199512233957648, 'severe_toxic': 0.0001368639786960557, 'obscene': 0.00019009604875463992, 'threat': 0.00013372187095228583, 'insult': 0.00018003795412369072, 'identity_hate': 0.00014580042625311762}
+Flagged as Toxic: False
+---
+Sentence: She appreciated the seamless organization and coordination during layovers.
+Toxicity Scores: {'toxic': 0.0005392482853494585, 'severe_toxic': 0.0001362534094369039, 'obscene': 0.00020264970953576267, 'threat': 0.0001307562051806599, 'insult': 0.00017981011478696018, 'identity_hate': 0.00014145963359624147}
+Flagged as Toxic: False
+---
+Sentence: * Tai Wei Wong (Malaysia) had a pleasant experience, except for the old aircraft used on one sector.
+Toxicity Scores: {'toxic': 0.0005606343620456755, 'severe_toxic': 0.00012672724551521242, 'obscene': 0.00019279799016658217, 'threat': 0.00011833597091026604, 'insult': 0.00018070661462843418, 'identity_hate': 0.00013936006871517748}
+Flagged as Toxic: False
+---
+Sentence: However, the cabin crew worked tirelessly to make up for the deficit, and the Qsuites business class was amazing.
+Toxicity Scores: {'toxic': 0.0006400342681445181, 'severe_toxic': 0.00012080447777407244, 'obscene': 0.00017707289953250438, 'threat': 0.00012356354272924364, 'insult': 0.0001864551450125873, 'identity_hate': 0.00014284710050560534}
+Flagged as Toxic: False
+---
+Sentence: **Actionable Recommendations:**
+
+* Improve in-flight entertainment options to cater to a wider range of passengers' tastes.
+Toxicity Scores: {'toxic': 0.0005887159495614469, 'severe_toxic': 0.0001269143249373883, 'obscene': 0.00017986998136620969, 'threat': 0.00013673862849827856, 'insult': 0.00018123205518350005, 'identity_hate': 0.00014325165830086917}
+Flagged as Toxic: False
+---
+Sentence: * Consider upgrading aircraft to ensure a consistent level of comfort and amenities across all sectors.
+Toxicity Scores: {'toxic': 0.0005239179590716958, 'severe_toxic': 0.00014034462219569832, 'obscene': 0.0001941264927154407, 'threat': 0.000141966636874713, 'insult': 0.00018417769751977175, 'identity_hate': 0.00014852148888166994}
+Flagged as Toxic: False
+---
+Sentence: * Continue to prioritize customer service, ensuring that cabin crew are attentive and professional.
+Toxicity Scores: {'toxic': 0.0005810193833895028, 'severe_toxic': 0.00013123423559591174, 'obscene': 0.0001852024142863229, 'threat': 0.00014295148139353842, 'insult': 0.0001839541073422879, 'identity_hate': 0.0001417844177922234}
+Flagged as Toxic: False
+---
+Sentence: * Consider offering more affordable options to attract a broader customer base.
+Toxicity Scores: {'toxic': 0.0005745504167862236, 'severe_toxic': 0.00013169832527637482, 'obscene': 0.00017717014998197556, 'threat': 0.0001435203303117305, 'insult': 0.00017992003995459527, 'identity_hate': 0.00014765968080610037}
+Flagged as Toxic: False
+---
+Sentence: Overall, Qatar Airways has demonstrated a commitment to exceptional service quality and passenger comfort.
+Toxicity Scores: {'toxic': 0.0005384732503443956, 'severe_toxic': 0.00013871084956917912, 'obscene': 0.00018991794786415994, 'threat': 0.00014473286864813417, 'insult': 0.00018173924763686955, 'identity_hate': 0.00014723282947670668}
+Flagged as Toxic: False
+---
+Sentence: However, there is room for improvement in terms of in-flight entertainment and aircraft age.
+Toxicity Scores: {'toxic': 0.0005548589979298413, 'severe_toxic': 0.00013623820268549025, 'obscene': 0.00018339297093916684, 'threat': 0.0001423632784280926, 'insult': 0.00018591315892990679, 'identity_hate': 0.00015203069779090583}
+Flagged as Toxic: False
+---
+Sentence: By addressing these concerns, Qatar Airways can continue to excel in the industry and maintain customer loyalty.
+Toxicity Scores: {'toxic': 0.000549083692021668, 'severe_toxic': 0.00013992436288390309, 'obscene': 0.00018492697563488036, 'threat': 0.00015292763418983668, 'insult': 0.0001866200182121247, 'identity_hate': 0.00015350544708780944}
+Flagged as Toxic: False
+---
+Sentence: **Customer Feedback Analysis – Qatar Airways**
+
+**Summary:**
+The customer feedback analysis reveals a mixed bag of experiences, with some customers praising the airline's service quality, while others express disappointment with food service and flexibility.
+Toxicity Scores: {'toxic': 0.0005487781018018723, 'severe_toxic': 0.00013085473619867116, 'obscene': 0.00018448739137966186, 'threat': 0.00012863246956840158, 'insult': 0.00018037129484582692, 'identity_hate': 0.00014561480202246457}
+Flagged as Toxic: False
+---
+Sentence: **Key Insights:**
+
+* Positive experiences: Customers appreciate the warm and friendly cabin crew, thorough and professional service, and good entertainment options.
+Toxicity Scores: {'toxic': 0.0005074277869425714, 'severe_toxic': 0.00014423551328945905, 'obscene': 0.00019303805311210454, 'threat': 0.00014814284804742783, 'insult': 0.0001830858236644417, 'identity_hate': 0.00015016997349448502}
+Flagged as Toxic: False
+---
+Sentence: * Negative experiences: Some customers express disappointment with food service, citing issues with food choices, synchronizing meal service, and flexibility in accommodating special requests.
+Toxicity Scores: {'toxic': 0.0005402141250669956, 'severe_toxic': 0.00013488225522451103, 'obscene': 0.00018543920305091888, 'threat': 0.00013553899771068245, 'insult': 0.00018530151282902807, 'identity_hate': 0.00014972173084970564}
+Flagged as Toxic: False
+---
+Sentence: **Specific Examples:**
+
+* Review 22: David Sims (Australia) - Explores issues with food service, including food choices, synchronizing meal service, and flexibility in accommodating special requests.
+Toxicity Scores: {'toxic': 0.0005457360530272126, 'severe_toxic': 0.00013154644693713635, 'obscene': 0.0001857561437645927, 'threat': 0.00012954544217791408, 'insult': 0.00018059862486552447, 'identity_hate': 0.00014650153752882034}
+Flagged as Toxic: False
+---
+Sentence: * Review 26: Theona Knight (Kuwait) - Highlights the warmth and friendliness of the cabin crew, thoroughness of service, and excellent communication.
+Toxicity Scores: {'toxic': 0.0005239537567831576, 'severe_toxic': 0.0001365045172860846, 'obscene': 0.00019244261784479022, 'threat': 0.00013207938172854483, 'insult': 0.00018068491772282869, 'identity_hate': 0.0001458469923818484}
+Flagged as Toxic: False
+---
+Sentence: * Review 41: C Richardson (United Kingdom) - Praises the airline's customer experience, value for money, and safety, citing excellent meals and treatment as a "First Class" passenger in Economy class.
+Toxicity Scores: {'toxic': 0.0005415781051851809, 'severe_toxic': 0.00013366807252168655, 'obscene': 0.00018504727631807327, 'threat': 0.00013127014972269535, 'insult': 0.00018297394854016602, 'identity_hate': 0.00014740701590199023}
+Flagged as Toxic: False
+---
+Sentence: **Actionable Recommendations:**
+
+* Improve food service by:
+	+ Offering more flexible meal options and accommodating special requests.
+Toxicity Scores: {'toxic': 0.0006032702513039112, 'severe_toxic': 0.00012572546256706119, 'obscene': 0.00017576987738721073, 'threat': 0.00013628730084747076, 'insult': 0.0001821146288421005, 'identity_hate': 0.00014633481623604894}
+Flagged as Toxic: False
+---
+Sentence: + Synchronizing meal service across all rows to avoid delays and disappointments.
+Toxicity Scores: {'toxic': 0.0006264199037104845, 'severe_toxic': 0.0001225207233801484, 'obscene': 0.00018122981418855488, 'threat': 0.000129910244140774, 'insult': 0.00018432493379805237, 'identity_hate': 0.00014334131265059114}
+Flagged as Toxic: False
+---
+Sentence: + Providing a wider range of food choices to cater to diverse tastes and dietary requirements.
+Toxicity Scores: {'toxic': 0.0005672514089383185, 'severe_toxic': 0.0001309766958002001, 'obscene': 0.00018134753918275237, 'threat': 0.00013539937208406627, 'insult': 0.00018128201190847903, 'identity_hate': 0.000146091275382787}
+Flagged as Toxic: False
+---
+Sentence: * Enhance cabin crew training by:
+	+ Encouraging friendly and engaging interactions with passengers.
+Toxicity Scores: {'toxic': 0.0005346474936231971, 'severe_toxic': 0.0001360097376164049, 'obscene': 0.00019677428645081818, 'threat': 0.00013430137187242508, 'insult': 0.00018246295803692192, 'identity_hate': 0.00014683186600450426}
+Flagged as Toxic: False
+---
+Sentence: + Ensuring crew members are empowered to accommodate special requests and adapt to changing situations.
+Toxicity Scores: {'toxic': 0.0005107299075461924, 'severe_toxic': 0.00014117895625531673, 'obscene': 0.00019135171896778047, 'threat': 0.0001446194655727595, 'insult': 0.0001828074164222926, 'identity_hate': 0.00014922957052476704}
+Flagged as Toxic: False
+---
+Sentence: + Providing ongoing feedback mechanisms to address concerns and improve service quality.
+Toxicity Scores: {'toxic': 0.0005395686021074653, 'severe_toxic': 0.00013589476293418556, 'obscene': 0.0001926914119394496, 'threat': 0.0001385320065310225, 'insult': 0.00018017293768934906, 'identity_hate': 0.00014575914246961474}
+Flagged as Toxic: False
+---
+Sentence: * Focus on consistency and standardization in service delivery to ensure a uniform experience across all flights and routes.
+Toxicity Scores: {'toxic': 0.0005449953023344278, 'severe_toxic': 0.00013690705236513168, 'obscene': 0.00018814099894370884, 'threat': 0.0001451603602617979, 'insult': 0.0001838250464061275, 'identity_hate': 0.00014759015175513923}
+Flagged as Toxic: False
+---
+Sentence: **Service Quality Insights:**
+
+* Customer service was unhelpful and obstructive when dealing with issues related to ticket flexibility and changes to flight schedules.
+Toxicity Scores: {'toxic': 0.0013090415159240365, 'severe_toxic': 9.426582982996479e-05, 'obscene': 0.000189794140169397, 'threat': 0.00010373929399065673, 'insult': 0.00020883011166006327, 'identity_hate': 0.00014152804214973003}
+Flagged as Toxic: False
+---
+Sentence: * The airline refused to accommodate a simple request to maintain a 2-hour layover in Doha, citing intransigence and arrogance.
+Toxicity Scores: {'toxic': 0.003086659125983715, 'severe_toxic': 9.266009874409065e-05, 'obscene': 0.0002634148404467851, 'threat': 0.00010097315680468455, 'insult': 0.0002922344719991088, 'identity_hate': 0.0001783070038072765}
+Flagged as Toxic: False
+---
+Sentence: * This experience led the customer to strongly warn others against flying with Qatar Airways.
+Toxicity Scores: {'toxic': 0.0006085200584493577, 'severe_toxic': 0.00012793058704119176, 'obscene': 0.00017454999033361673, 'threat': 0.00013969987048767507, 'insult': 0.00018556426221039146, 'identity_hate': 0.00015105791680980474}
+Flagged as Toxic: False
+---
+Sentence: **Actionable Recommendations:**
+
+* Implement a more customer-centric approach to handling ticket flexibility and schedule changes.
+Toxicity Scores: {'toxic': 0.000643619685433805, 'severe_toxic': 0.00012120947940275073, 'obscene': 0.000178322137799114, 'threat': 0.0001324090117122978, 'insult': 0.00017999041301663965, 'identity_hate': 0.00014205925981514156}
+Flagged as Toxic: False
+---
+Sentence: * Provide clear communication and transparent solutions to customers' requests and concerns.
+Toxicity Scores: {'toxic': 0.0005843343096785247, 'severe_toxic': 0.00013432327250484377, 'obscene': 0.00018954112601932138, 'threat': 0.00014880995149724185, 'insult': 0.00017994151858147234, 'identity_hate': 0.00014544093573931605}
+Flagged as Toxic: False
+---
+Sentence: * Train customer service representatives to be more empathetic and accommodating, focusing on finding solutions rather than simply adhering to rigid policies.
+Toxicity Scores: {'toxic': 0.0006418026168830693, 'severe_toxic': 0.0001278583804378286, 'obscene': 0.000179754919372499, 'threat': 0.00014435274351853877, 'insult': 0.0001869844418251887, 'identity_hate': 0.00014464043488260359}
+Flagged as Toxic: False
+---
+Sentence: * Consider implementing a "service recovery" process to address and resolve customer complaints in a timely and satisfactory manner.
+Toxicity Scores: {'toxic': 0.0005466379225254059, 'severe_toxic': 0.0001329492370132357, 'obscene': 0.00018661523063201457, 'threat': 0.00013474033039528877, 'insult': 0.0001810439716791734, 'identity_hate': 0.00014491903129965067}
+Flagged as Toxic: False
+---
